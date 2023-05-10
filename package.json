@@ -1,0 +1,15 @@
+{
+    "name": "websocket-server",
+    "version": "1.0.0",
+    "main": "websocketServer.js",
+    "scripts": {
+      "start": "node websocketServer.js"
+    },
+    "dependencies": {
+      "ws": "^7.4.6"
+    },
+    "engines": {
+      "node": "14.x"
+    }
+  }
+  
